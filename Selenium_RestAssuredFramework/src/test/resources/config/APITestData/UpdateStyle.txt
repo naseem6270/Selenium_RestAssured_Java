@@ -1,0 +1,18 @@
+{
+  "version": 8,
+  "name": "New Style Name",
+  "metadata": { },
+  "sources": { },
+  "sprite": "mapbox://sprites/{username}/{style_id}",
+  "glyphs": "mapbox://fonts/{username}/{fontstack}/{range}.pbf",
+  "layers": [{
+    "id": "new-layer",
+    "type": "background",
+    "paint": {
+      "background-color": "#111"
+    },
+    "interactive": true
+    }],
+    "owner": "{username}",
+    "draft": true
+  }

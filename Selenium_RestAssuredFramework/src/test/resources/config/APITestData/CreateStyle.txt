@@ -1,0 +1,17 @@
+{
+  "version": 8,
+  "name": "My Awesome Style",
+  "metadata": { },
+  "sources": {
+    "myvectorsource": {
+      "url": "mapbox://{tileset_id}",
+      "type": "vector"
+    },
+    "myrastersource": {
+      "url": "mapbox://{tileset_id}",
+      "type": "raster"
+    }
+  },
+  "glyphs": "mapbox://fonts/{username}/{fontstack}/{range}.pbf",
+  "layers": [ ]
+}
