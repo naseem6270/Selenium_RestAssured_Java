@@ -1,4 +1,4 @@
-# Toptal Screening Assignment
+# Selenium_RestAssured Framework
 
 This framework supports the API and UI automation through Selenium and Rest Assured library. Written in Java programming language and supports Extent Reporting. It also supports running the test on BrowserStack cloud. 
 
